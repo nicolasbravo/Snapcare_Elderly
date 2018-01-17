@@ -23,7 +23,7 @@ public class EmergencyHelp extends AppCompatActivity {
         dialContactPhone("911");
     }
     public void onClickCaretaker(View view) {
-        dialContactPhone("7038659144");
+        dialContactPhone("7033888275");
     }
 
     private void dialContactPhone(final String phoneNumber) {
